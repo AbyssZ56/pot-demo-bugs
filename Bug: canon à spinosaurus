@@ -1,0 +1,25 @@
+## Expected Behavior
+sortir de la grotte 
+## Current Behavior
+propultion  ou catapultage hors de la grotte
+## Reproduction Steps
+
+-être dans la grotte et vouloir sortir
+
+-se mettre en crounch puis faire un sprint sous l'entrer 
+
+-propultion en avant ou catapultage en éjection de la grotte 
+
+## Preuve
+https://youtu.be/KG-4zfUzTm8
+## Journaux d'incidents
+
+## Build Information
+
+**Game Version:** 0.0.0.13287
+
+**Operating System and Alderon Games ID:**
+
+Windows 10 Famille 20H2
+
+025-957-284
